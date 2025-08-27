@@ -153,5 +153,6 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- Arpon, Joseph Cris (**@jace54321**)
+- _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
+- Arpon, Joseph Cris (**@jace54321**)
