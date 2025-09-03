@@ -1,4 +1,4 @@
-- Year/Section: 3rd Year / G07
+- Year/Section: 3rd Year / G7
 - Favorite Language: Kotlin	
 - One Git Tip Learned: AI
 - GitHub: @jace54321
